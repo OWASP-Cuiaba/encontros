@@ -1,6 +1,7 @@
 # 5º Encontro OWASP Cuiabá
 ### Sobre o Encontro
 * __Local__: ~~SEPLAM~~ Shopping Pantanal - Praça da Alimentação
+* __Data__: 01 de Março de 2014
 * __Horário__: A partir das 13:50
 
 ### Participantes
