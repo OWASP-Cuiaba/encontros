@@ -24,7 +24,9 @@
 
 ### Fotos
 ![Saron, Gabriel Pedro, Bruno Arruda e Kembolle](img/01-Mar-2014-01.jpg)
+
 Saron, Gabriel Pedro, Bruno Arruda e Kembolle
 
 ![Ricardo Germano, Gabriel Pedro, Bruno Arruda](img/01-Mar-2014-02.jpg)
+
 Ricardo Germano, Gabriel Pedro, Bruno Arruda
